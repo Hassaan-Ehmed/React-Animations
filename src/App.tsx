@@ -1,25 +1,20 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import BasicsOfMotion from './components/BasicsOfMotion';
+import Gestures from './components/Gestures';
+import AnimationControls from './components/AnimationControls';
+import ViewBasedAnimation from './components/ViewBasedAnimation';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+   {/* <BasicsOfMotion/> */}
+{/* <Gestures/>  */}
+{/* <AnimationControls/> */}
+<ViewBasedAnimation/>
+   
+   </>
   );
 }
 

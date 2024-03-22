@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+### `Crash Course`
+
+Framer motion Crash course to Larn understand how Frmaer Works
+[Video Link]([framer-motion-youtube-video](https://youtu.be/znbCa4Rr054?si=u80zH3i1Qu0ECFPH))
+
+
 In the project directory, you can run:
 
 ### `npm start`
